@@ -437,6 +437,10 @@
        font-family: 'Karla', sans-serif;
      }
 
+     .footer-down{
+         margin-top: 70px;
+     }
+
    .footer-down p {
    margin-top: -45px;
    padding-bottom: 50px;
@@ -500,6 +504,10 @@
    font-size: 12px;
 }
 
+.footer-down{
+    margin-top: 50px;
+}
+
    .short-text {
        display: inline-block;
    }
@@ -548,6 +556,10 @@
        font-size: 11.5px;
        font-family: 'Karla', sans-serif;
      }
+
+     .footer-down{
+        margin-top: 40px;
+    }
 
    .footer-down p {
    margin-top: -45px;
