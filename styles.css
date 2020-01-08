@@ -96,8 +96,12 @@
 
 
     #kolom {
-        width: 310px;
+        width: 350px;
         margin-left: 40px !important;
+    }
+
+    #konten {
+        padding-top: 150px;
     }
     #konten .subhead p {
         font-size: 55px;
@@ -106,7 +110,7 @@
       }
 
       #konten .left-text p {
-        font-size: 16px;
+        font-size: 20px;
         font-family: 'Karla', sans-serif;
         line-height: 0px;
       }
@@ -115,7 +119,7 @@
         margin-top: -2px;
         margin-bottom: -2px;
         margin-left: 120px;
-        font-size: 16px;
+        font-size: 20px;
         font-family: 'Karla', sans-serif;
       }
 
@@ -123,32 +127,31 @@
           margin-top: 70px;
       }
       .footer-down p {
-        margin-bottom: 10px;
+        margin-bottom: 5px;
         font-family: 'Karla', sans-serif;
-        font-size: 16px;
+        font-size: 17px;
      }
 
     .footer-img {
-        margin-top:20px;
+        margin-top:10px;
     }
 
     #konten .right-text {
-        padding-top: 90px;
+        padding-top: 60px;
     }
     .full-text p {
-        margin-top: 30px;
+        margin-top: 0px;
     }
   } 
   
-
   @media (max-width:1200px) {
 
     #kolom {
-        width: 310px;
+        width: 320px;
         margin-left: 40px !important;
+        padding-top: 30px;
     }
 
-    
     #konten .right-text {
         padding-top: 90px;
         padding-right: 0px;
@@ -160,7 +163,7 @@
       }
 
       #konten .left-text p {
-        font-size: 15px;
+        font-size: 18px;
         font-family: 'Karla', sans-serif;
         line-height: 0px;
         margin-right: -20px;
@@ -170,37 +173,40 @@
         margin-top: -2px;
         margin-bottom: -2px;
         margin-left: 120px;
-        font-size: 15px;
+        font-size: 18px;
         font-family: 'Karla', sans-serif;
       }
 
       .footer-down{
         padding-top: 0px;
-        margin-top: 120px;
+        margin-top: 60px;
     }
     .footer-down p {
-        margin: 0px;
+        margin-bottom: 5px;
         font-family: 'Karla', sans-serif;
         font-size: 15px;
     }
 
     .footer-img {
-        margin-top:70px;
+        margin-top:20px;
     }
     #konten .right-text {
         padding-top: 90px;
     }
     .full-text p {
-        margin-top: 30px;
+        margin-top: 0px;
     }
   } 
-
 
   @media (max-width:1024px) {
 
     #kolom {
         width: 310px;
-        margin-left: 40px !important;
+        padding-top: 45px;
+    }
+
+    #konten {
+        padding-top: 140px;
     }
     #konten .subhead p {
         font-size: 42px;
@@ -209,7 +215,7 @@
       }
 
       #konten .left-text p {
-        font-size: 15px;
+        font-size: 18px;
         font-family: 'Karla', sans-serif;
       }
 
@@ -217,7 +223,7 @@
         margin-top: -2px;
         margin-bottom: -2px;
         margin-left: 120px;
-        font-size: 15px;
+        font-size: 18px;
         font-family: 'Karla', sans-serif;
       }
 
@@ -226,8 +232,8 @@
     }
 
     .footer-down {
-        padding-top: 35px;
-        margin-top: 70px;
+        padding-top: 70px;
+        margin-top: 20px;
     }
     .footer-down p {
         margin: 0px;
@@ -236,23 +242,24 @@
     }
 
     .footer-img {
-        margin-top:70px;
+        margin-top:50px;
     }
 
     
     .full-text p {
-        margin-top: 30px;
+        margin-top: 0px;
     }
 } 
 
   @media (max-width:991px) {
     #konten {
-        padding-top: 180px;
+        padding-top: 150px;
       }
       
     #kolom {
-        width: 280px;
+        width: 290px;
         margin-left: 0px !important;
+        padding-top: 60px;
     }
 
     .down-pad {
@@ -260,10 +267,10 @@
     }
 
     #konten .right-text {
-        padding-top: 30px;
+        padding-top: 70px;
         padding-left: 0px;
         margin-left: -20px;
-
+        margin-right: 0px;
     }
     #konten .subhead {
         margin-bottom: 10px;
@@ -271,13 +278,13 @@
     }
 
     #konten .subhead p {
-        font-size: 35px;
+        font-size: 37px;
         font-family: 'Karla', sans-serif;
         line-height: 35px;
       }
 
       #konten .left-text p {
-        font-size: 15px;
+        font-size: 17px;
         font-family: 'Karla', sans-serif;
         line-height: 30px;
       }
@@ -286,7 +293,7 @@
         margin-top: -2px;
         margin-bottom: -2px;
         margin-left: 30px;
-        font-size: 15px;
+        font-size: 17px;
         font-family: 'Karla', sans-serif;
       }
 
@@ -294,7 +301,7 @@
         margin-top: -15px;
         padding-bottom: 20px;
         font-family: 'Karla', sans-serif;
-        font-size: 13px;
+        font-size: 15px;
     }
 
     .short-text {
@@ -319,7 +326,7 @@
     #kolom {
         width: 280px;
         margin-left: 20px !important;
-        padding-top: 5px;
+        padding-top: 40px;
     }
 
     #konten {
@@ -346,7 +353,7 @@
 
     #konten .left-text p {
     margin-bottom: 10px;
-    font-size: 15px;
+    font-size: 17px;
     font-family: 'Karla', sans-serif;
     }
 
@@ -354,28 +361,23 @@
         margin-top: -2px;
         margin-bottom: -2px;
         margin-left: 40px;
-        font-size: 15px;
+        font-size: 17px;
         font-family: 'Karla', sans-serif;
       }
 
       .footer-down {
           margin-top: 0px;
+          padding-top: 10px;
       }
-
-    /* .footer-down p {
-    margin: 0px;
-    font-family: 'Karla', sans-serif;
-    font-size: 13px;
-} */
 
 .footer-down p {
     margin-top: -15px;
     padding-bottom: 20px;
     font-family: 'Karla', sans-serif;
-    font-size: 13px;
+    font-size: 15px;
 }
 .footer-img {
-    margin-top:30px;
+    margin-top:25px;
 }
 
     .short-text {
@@ -391,8 +393,6 @@
     }
     
   }
-  
-  
 
   @media (max-width:767px) {
     #kolom, #s-hidden {
@@ -419,7 +419,7 @@
 
    #konten .left-text p {
    margin-bottom: 10px;
-   font-size: 16px;
+   font-size: 18px;
    font-family: 'Karla', sans-serif;
    }
 
@@ -427,7 +427,7 @@
        margin-top: -2px;
        margin-bottom: -2px;
        margin-left: 0px;
-       font-size: 16px;
+       font-size: 18px;
        font-family: 'Karla', sans-serif;
      }
 
@@ -439,7 +439,7 @@
    margin-top: -45px;
    padding-bottom: 50px;
    font-family: 'Karla', sans-serif;
-   font-size: 16px;
+   font-size: 17px;
 }
 
    .short-text {
@@ -476,12 +476,12 @@
 #konten .subhead p {
     font-size: 43px;
     font-family: 'Karla', sans-serif;
-    line-height: 35px;
+    line-height: 37px;
 }
 
    #konten .left-text p {
    margin-bottom: 10px;
-   font-size: 16px;
+   font-size: 18px;
    font-family: 'Karla', sans-serif;
    }
 
@@ -489,7 +489,7 @@
        margin-top: -2px;
        margin-bottom: -2px;
        margin-left: 30px;
-       font-size: 16px;
+       font-size: 18px;
        font-family: 'Karla', sans-serif;
      }
 
@@ -535,14 +535,14 @@
 }
 
 #konten .subhead p {
-    font-size: 30px;
+    font-size: 35px;
     font-family: 'Karla', sans-serif;
     line-height: 30px;
 }
 
    #konten .left-text p {
    margin-bottom: 5px;
-   font-size: 14px;
+   font-size: 17px;
    font-family: 'Karla', sans-serif;
    }
 
@@ -550,7 +550,7 @@
        margin-top: -2px;
        margin-bottom: -2px;
        margin-left: 20px;
-       font-size: 14px;
+       font-size: 17px;
        font-family: 'Karla', sans-serif;
      }
 
@@ -558,11 +558,11 @@
    margin-top: -45px;
    padding-bottom: 50px;
    font-family: 'Karla', sans-serif;
-   font-size: 14px;
+   font-size: 15px;
 }
 
 .footer-down{
-    margin-top: 50px;
+    margin-top: 70px;
 }
 
    .short-text {
@@ -602,7 +602,7 @@
 
    #konten .left-text p {
    margin-bottom: 5px;
-   font-size: 14px;
+   font-size: 17px;
    font-family: 'Karla', sans-serif;
    }
 
@@ -610,19 +610,19 @@
        margin-top: -2px;
        margin-bottom: -2px;
        margin-left: 10px;
-       font-size: 14px;
+       font-size: 17px;
        font-family: 'Karla', sans-serif;
      }
 
      .footer-down{
-        margin-top: 40px;
+        margin-top: 70px;
     }
 
    .footer-down p {
    margin-top: -45px;
    padding-bottom: 50px;
    font-family: 'Karla', sans-serif;
-   font-size: 14px;
+   font-size: 15px;
 }
 
    .short-text {
@@ -659,14 +659,14 @@
 }
 
 #konten .subhead p {
-    font-size: 26px;
+    font-size: 27px;
     font-family: 'Karla', sans-serif;
     line-height: 27px;
 }
 
    #konten .left-text p {
    margin-bottom: 5px;
-   font-size: 12px;
+   font-size: 16.5px;
    font-family: 'Karla', sans-serif;
    line-height: 25px;
    }
@@ -675,19 +675,19 @@
        margin-top: -2px;
        margin-bottom: -2px;
        margin-left: 10px;
-       font-size: 12px;
+       font-size: 16.5px;
        font-family: 'Karla', sans-serif;
      }
 
      .footer-down{
-        margin-top: 40px;
+        margin-top: 75px;
     }
 
    .footer-down p {
    margin-top: -45px;
    padding-bottom: 50px;
    font-family: 'Karla', sans-serif;
-   font-size: 12px;
+   font-size: 14px;
 }
 
    .short-text {
