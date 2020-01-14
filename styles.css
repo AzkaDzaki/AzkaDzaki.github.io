@@ -8,13 +8,13 @@
   
  .bg {
     /* The image used */
-    background-image: url("img/Mohon\ Maaf.png"), url("img/ASSET.png"), url("img/Background.png");
+    background-image: url("img/Mohon\ Maaf-min.png"), url("img/ASSET-min.png"), url("img/Background-min.png");
     background-repeat: no-repeat;
     background-size: 850px 420px, auto, cover;
     background-position: center center, right top, center center;
 
     /* Full height */
-    height: 100vh; 
+    height: fit-content; 
   
     /* Center and scale the image nicely */
 
